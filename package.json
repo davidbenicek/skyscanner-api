@@ -1,6 +1,6 @@
 {
   "name": "skyscanner-promise-browse",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JS Wrapper around the Skyscanner browse api",
   "main": "./src/index.js",
   "scripts": {
